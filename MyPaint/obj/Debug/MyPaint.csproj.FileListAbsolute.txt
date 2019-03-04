@@ -1,0 +1,10 @@
+M:\WorkSpaceC#\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+M:\WorkSpaceC#\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.MainWindow.resources
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+M:\WorkSpaceC#\MyPaint\MyPaint\obj\Debug\MyPaint.ColorBar.resources
